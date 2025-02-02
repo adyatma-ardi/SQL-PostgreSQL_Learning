@@ -1,0 +1,35 @@
+Intro
+\
+\___What is a database ?
+\___Types of database
+\___Relational databases
+\___SQL
+
+
+____What is a database
+
+An organised collection of data, gives us a method of accessing
+and manipulating the data
+
+____Types of database
+
+1. Flat files (like Excel sheets)
+2. Document model databases (NoSQL)
+3. Relational databases
+
+____Relational databases
+
+-   Data is stored in tables (relations)
+-   These tables can be 'linked' together
+-   Can identify data in relation to another piece of data in the 
+    database
+-   MySQL, Oracle, PostgreSQL are all RDBMS
+-   RDBMS allow us to interact with the database
+-   PostgreSQL is the RDBMS we will be using
+
+____SQL
+
+-   Stands for Structured Query Language
+-   The language for talking to relational databases
+-   Used to create tables, insert data, retrieve data and much more
+-   SQL queries are very similar across different database systems
